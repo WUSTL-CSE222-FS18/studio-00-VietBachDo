@@ -11,7 +11,7 @@ You can preview what your Markdown file will look like when styles are added by 
 
 ***Q1. The above paragraph and this sentence use markdown in a few ways.  Give a brief description of anything unusual you notice.  Just enter your description on the lines below:***
 
-### Lists
+### Lists 
 
 Create a numbered list of five of your favorite foods in-order from favorite to least favorite in the designated area below. Be sure to include at least two things that are made of multiple ingredients.  
 
